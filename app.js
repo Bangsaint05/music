@@ -35,6 +35,30 @@ const app = {
             image: './assets/img/0.jpg'
         },
         {
+            name: 'Chạnh Lòng Thương Cô 2',
+            singer: 'Huy Vạc ( WinT Remix )',
+            path: './assets/songs/y2mate.com - CHẠNH LÒNG THƯƠNG CÔ 2  Huy Vạc  WinT Remix ',
+            image: './assets/img/chanhlongthuongco2.jpg'
+        },
+        {
+            name: 'Đoạn Tuyệt Nàng Đi',
+            singer: 'Phát Huy T4  Truzg Remix',
+            path: './assets/songs/y2mate.com - ĐOẠN TUYỆT NÀNG ĐI  Phát Huy T4  Truzg Remix ',
+            image: './assets/img/doantuyetnangdi.jpg'
+        },
+        {
+            name: 'Ôm Nhiều Mộng Mơ',
+            singer: ' Phát Huy T4 x TLong x Will',
+            path: './assets/songs/y2mate.com - Ôm Nhiều Mộng Mơ Lofi Ver  Phát Huy T4 x TLong x Will M',
+            image: './assets/img/omnhieumongmo.jpg'
+        },
+        {
+            name: 'Thôi Quên Đi',
+            singer: 'TVk x Phát Huy T4 x NBORO',
+            path: './assets/songs/y2mate.com - Thôi Quên Đi Lofi Ver  TVk x Phát Huy T4 x NBORO',
+            image: './assets/img/thoiquendi.jpg'
+        },
+        {
             name: 'Build a B*tch',
             singer: ' Bella Poarch',
             path: './assets/songs/y2mate.com - Build a Btch  Bella Poarch Lyrics  Vietsub .mp3',
