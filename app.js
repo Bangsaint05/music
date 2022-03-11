@@ -23,6 +23,72 @@ const app = {
     config: JSON.parse(localStorage.getItem('PLAYER_STORAGE_KEY')) || {},
     songs : [
         {
+            name: 'Phận Duyên Lỡ Làng',
+            singer: 'Phát Huy T4 x Truzg x meChill',
+            path: './assets/songs/y2mate.com -  Lofi LyricsPhận Duyên Lỡ Làng.mp3',
+            image: './assets/img/phanduyenlolang.jpg'
+        },
+        {
+            name: 'Người Chơi Hệ Đẹp',
+            singer: 'Cukak Remix',
+            path: './assets/songs/y2mate.com - 16 Typh  Người Chơi Hệ ĐẹpCukak Remix Audio Lyrics.mp3',
+            image: './assets/img/nguoichoihedep.jpg'
+        },
+        {
+            name: 'Chỉ Muốn Bên Em Thật Gần',
+            singer: 'YLing',
+            path: './assets/songs/y2mate.com - Chỉ Muốn Bên Em Thật Gần.mp3',
+            image: './assets/img/chimuonbenemthatgan.jpg'
+        },
+        {
+            name: 'Đâu Ai Chung Tình Được Mãi',
+            singer: 'TBynz Mix Style Thái Hoàng',
+            path: './assets/songs/y2mate.com - Đâu Ai Chung Tình Được Mãi.mp3',
+            image: './assets/img/dauaichungtinhduocmai.jpg'
+        },
+        {
+            name: 'Hạnh Phúc Đó Không Có',
+            singer: 'Lương Minh Trang',
+            path: './assets/songs/y2mate.com - Hạnh Phúc Đó Em Không Có.mp3',
+            image: './assets/img/hanhphucdokhongcoem.jpg'
+        },
+        {
+            name: 'Hết Nhạc Con Về',
+            singer: ' RZ Mas ft DuyB ',
+            path: './assets/songs/y2mate.com - Hết Nhạc Con Về .mp3',
+            image: './assets/img/hetnhacconve.jpg'
+        },
+        {
+            name: 'Ít Nhưng Dài Lâu',
+            singer: 'Chu Thúy Quỳnh x Will M',
+            path: './assets/songs/y2mate.com - Ít Nhưng Dài Lâu.mp3',
+            image: './assets/img/itnhungdailau.jpg'
+        },
+        {
+            name: 'Ngày Đầu Tiên',
+            singer: 'Đức Phúc',
+            path: './assets/songs/y2mate.com - NGÀY ĐẦU TIÊN.mp3',
+            image: './assets/img/ngaydautien.jpg'
+        },
+        {
+            name: 'Sang Xịn Mịn',
+            singer: 'Gilf ft Kewtiie',
+            path: './assets/songs/y2mate.com - Sang Xịn Mịn.mp3',
+            image: './assets/img/sangxinmin.jpg'
+        },
+        {
+            name: 'Kiếp Má Hồng',
+            singer: 'TLong Lssin Remix',
+            path: './assets/songs/y2mate.com - KIẾP MÁ HỒNG.mp3',
+            image: './assets/img/kiepmahong.jpg'
+        },
+        {
+            name: 'Thê Lương',
+            singer: 'Phúc Chinh',
+            path: './assets/songs/y2mate.com - THÊ LƯƠNG.mp3',
+            image: './assets/img/theluong.jpg'
+        },
+        {
             name: 'Dịu Dàng Em Đến Remix',
             singer: 'Erik',
             path: './assets/songs/Dịu Dàng Em Đến  ERIKCukak Remix.mp3',
