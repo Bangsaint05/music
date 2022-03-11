@@ -55,7 +55,7 @@ const app = {
         {
             name: 'Hết Nhạc Con Về',
             singer: ' RZ Mas ft DuyB ',
-            path: './assets/songs/y2mate.com - Hết Nhạc Con Về .mp3',
+            path: './assets/songs/y2mate.com - Hết Nhạc Con Về.mp3',
             image: './assets/img/hetnhacconve.jpg'
         },
         {
